@@ -27,6 +27,8 @@ Abstract: This senior exercise investigates the empirical applicability of the P
 
 The final paper can be found [hosted on Gary Smith's website (Wayback Machine)](https://web.archive.org/web/20220123230931/http://economics-files.pomona.edu/GarySmith/Econ190/ChoeDerrick_TranPaulLe.pdf) or on my [Research Page](https://paulletran.com/research/).
 
+[ct_econthesis.bib](https://github.com/PaulTran47/ECON190/blob/main/paper/ct_econthesis.bib) contains the citation for this paper.
+
 <p align="right">
   (<a href="#econ190">back to top.</a>)
 </p>
