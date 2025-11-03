@@ -25,7 +25,7 @@ This repository hosts all the assets and source code used to create my and Derri
 
 Abstract: This senior exercise investigates the empirical applicability of the Profits Theory of Investment, and whether it affirms the robustness of investment in the face of increasing market concentration in the United States. We find that whilst the relationship between market concentration and profitability across industries is both statistically significant and strong, the Profits Theory of Investment is statistically significant but weak in terms of the magnitude of its effects. As a result, investment levels in the United States are at risk of declining as markets become less competitive.
 
-The final paper can be found [hosted on Gary Smith's website](http://economics-files.pomona.edu/garysmith/Econ190/econ190.html) or in this subdirectory [here](https://github.com/PaulTran47/ECON190/blob/main/paper/tran_paul_le_choe_derrick_economics_senior_thesis_22may17.pdf).
+The final paper can be found [hosted on Gary Smith's website (Wayback Machine)](https://web.archive.org/web/20220123230931/http://economics-files.pomona.edu/GarySmith/Econ190/ChoeDerrick_TranPaulLe.pdf) or on my [Research Page](https://paulletran.com/research/).
 
 <p align="right">
   (<a href="#econ190">back to top.</a>)
